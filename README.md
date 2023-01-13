@@ -1,6 +1,10 @@
 # docker-phpmyadmin
 
-Latest phpMyAdmin (5.2.0) build using slim Debian 11 (bullseye).
+Latest phpMyAdmin build on slim debian OS
+- Debian 11 (bullseye).
+- phpMyAdmin 5.2.0
+- PHP 8.0.27
+
 
 # Build docker image & run using dockerfile 
 
